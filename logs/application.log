@@ -1,0 +1,12 @@
+2020-01-14 15:33:39,347 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - Unable to find pom.properties in /Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/target/scala-2.13/classes
+2020-01-14 15:33:39,347 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - As folder project tried to fall back to pom.xml, but could not find one
+2020-01-14 15:33:39,347 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - Unable to load pom.properties from/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/target/scala-2.13/classes
+2020-01-14 15:33:39,347 [WARN] from org.drools.compiler.kie.builder.impl.ClasspathKieProject in play-dev-mode-akka.actor.default-dispatcher-4 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+2020-01-14 15:33:40,915 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    filters.ExampleFilter
+
+2020-01-14 15:33:41,306 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev) (no global state)

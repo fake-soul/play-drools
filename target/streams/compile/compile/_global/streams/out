@@ -1,0 +1,14 @@
+[error] /Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/app/controllers/Application.java:30:1: cannot find symbol
+[error]   symbol:   variable Male
+[error]   location: class controllers.Application
+[error] Male
+[error] /Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/app/models/Person.java:17:1: cannot find symbol
+[error]   symbol: variable gender
+[error] this.gender
+[error] /Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/app/models/Person.java:37:1: cannot find symbol
+[error]   symbol:   variable gender
+[error]   location: class models.Person
+[error] gender
+[error] /Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/app/models/Person.java:41:1: cannot find symbol
+[error]   symbol: variable gender
+[error] this.gender

@@ -1,0 +1,1 @@
+[warn] insecure HTTP request is deprecated 'http://repository.jboss.org/nexus/content/groups/public-jboss/'; switch to HTTPS or opt-in as ("public-jboss" at "http://repository.jboss.org/nexus/content/groups/public-jboss/").withAllowInsecureProtocol(true)

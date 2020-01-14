@@ -1,0 +1,6 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/conf/logback.xml,/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/target/scala-2.13/classes/logback.xml)
+[debug] 	(/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/conf/application.conf,/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/target/scala-2.13/classes/application.conf)
+[debug] 	(/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/conf/routes,/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/target/scala-2.13/classes/routes)
+[debug] 	(/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/conf/drools/HelloWorld.drl,/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/target/scala-2.13/classes/drools/HelloWorld.drl)
+[debug] 	(/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/conf/META-INF/kmodule.xml,/Users/bharat.mulchandani/Downloads/play-samples-play-java-starter-example/target/scala-2.13/classes/META-INF/kmodule.xml)
